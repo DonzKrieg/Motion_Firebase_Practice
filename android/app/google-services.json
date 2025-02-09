@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929297100105",
+    "project_id": "motion-week-8-todo",
+    "storage_bucket": "motion-week-8-todo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929297100105:android:5a8be28bea2e638a997e98",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuApKOWInoxOlOtFcxRwqRHMSBS8h72F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
